@@ -4,7 +4,10 @@ This is a MOD for 7 Days To Die Alpha 18.
 This is inspired by "JaWoodle" aka "Josh" from YouTube. 
 https://www.youtube.com/channel/UCJNeiS810mGG98ctG45M1WA 
 
-It removes all the Basic Survival Quests in a way where you still get the 4 Skill Points and the Trader Marker.
+It removes crafting from the game so you cannot craft anything.
+
+This adds another level of difficulty as you have to loot everything including all building materials.
+Yes thats right... all of them! However, if you can find Wood Frames or Rebar Frames you can use them however you like!
 
 Just load into the game and in a few seconds you should get your 4 Points and the trader marker.
 
