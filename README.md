@@ -4,7 +4,7 @@ This is a MOD for 7 Days To Die Alpha 18.
 This is inspired by "JaWoodle" aka "Josh" from YouTube. 
 https://www.youtube.com/channel/UCJNeiS810mGG98ctG45M1WA 
 
-It removes crafting from the game so you cannot craft anything.
+It removes crafting from the game so you cannot craft anything. Including Vehicles! (There is a different MOD that allows vehicle crafting on my page https://github.com/JessicaRushie )
 
 This adds another level of difficulty as you have to loot everything including all building materials.
 Yes thats right... all of them! However, if you can find Wood Frames or Rebar Frames you can use them however you like!
